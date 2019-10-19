@@ -1,0 +1,10 @@
+.errorText {
+  color: #c62828;
+  font-size: 15px;
+  text-align: right;
+}
+
+.modal-btns {
+  display: flex;
+  justify-content: center;
+}
